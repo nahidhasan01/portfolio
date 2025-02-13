@@ -1,15 +1,14 @@
 export const banner = {
-  name: "Nobel Ahmed",
-  brand: "Nobel",
-  image:
-    "https://images.unsplash.com/photo-1543965170-4c01a586684e?q=80&w=2049&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  name: "Nahid Hasan",
+  brand: "Nahid Hasan",
+  image: "/Profile Web.jpg",
   availability: "available",
   shortInfo:
     "I am a dedicated web designer and developer, deeply committed to the principles of minimalist design. With more than 5 years of hands-on experience in the industry.",
 };
 
 export const myContacts = {
-  email: "nobel@gmail.com",
+  email: "nahidhasansulyman9@gmail.com",
   social: [
     {
       icon: "FaFacebook",
