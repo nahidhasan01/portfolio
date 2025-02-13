@@ -12,6 +12,21 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        "hero-pattern": "url('/email-bg.avif')",
+      },
+      animation: {
+        "fade-in": "fadeIn 1s ease infinite",
+      },
+      keyframes: {
+        fadeIn: {
+          "0%": { background: "#33ff0040" },
+          "100%": { background: "#33ff0020" },
+        },
+      },
+      fontFamily: {
+        poppins: ["var(--font-poppins)", "sans-serif"],
+      },
     },
   },
   plugins: [],
