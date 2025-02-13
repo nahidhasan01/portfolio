@@ -18,14 +18,14 @@ const Navbar = () => {
       {!isNavShown ? (
         <button
           onClick={() => setIsNavShown(true)}
-          className="absolute hover:text-gray-400 right-8 top-6"
+          className="absolute hover:text-gray-400 right-8 top-6 md:hidden"
         >
           <FaBars />
         </button>
       ) : (
         <button
           onClick={() => setIsNavShown(false)}
-          className="absolute right-7 top-5"
+          className="absolute right-7 top-5 md:hidden"
         >
           <FaTimes />
         </button>
