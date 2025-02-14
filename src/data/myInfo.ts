@@ -12,19 +12,19 @@ export const myContacts = {
   social: [
     {
       icon: "FaFacebook",
-      link: "https://www.facebook.com",
+      link: "https://www.facebook.com/profile.php?id=100075811726681",
     },
     {
       icon: "FaXTwitter",
-      link: "https://www.twitter.com",
+      link: "https://x.com/nhsnahid69",
     },
     {
       icon: "FaInstagram",
-      link: "https://www.instagram.com",
+      link: "https://www.instagram.com/nahidhasansulaiman/",
     },
     {
       icon: "FaLinkedin",
-      link: "https://www.linkedin.com",
+      link: "https://www.linkedin.com/in/nahidhasansulaiman/",
     },
   ],
 };
@@ -36,20 +36,19 @@ export const myStats = [
   },
   {
     title: "Successful Projects",
-    value: "99+",
+    value: "50+",
   },
   {
-    title: "Design Awards",
-    value: "10",
+    title: "Silverware",
+    value: "5",
   },
 ];
 
 export const aboutMe = {
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quibusdam explicabo veritatis eveniet laboriosam sunt maiores vero reiciendis rem tenetur?",
+    "Hi, I’m Nahid Hasan Sulaiman, a video editor and graphic designer who loves bringing ideas to life through creative visuals",
   moreInfo: [
-    "I approach each project with meticulous attention to detail, striving to exceed expectations and deliver results that align with both the client's objectives and the latest industry standards.",
-    "As I continue to evolve professionally, I remain committed to refining my craft and embracing new challenges. I am driven by a relentless pursuit of excellence and a desire to create meaningful impact through my work. Let's collaborate to bring your vision to life and shape the future of the web together.",
+    "I focus on crafting designs and videos that not only look great but also tell your story in a way that resonates with your audience. I’m all about understanding your vision and working together to make it happen, no matter the project. Let’s create something that truly connects!"
   ],
   myExperience: [
     {
@@ -57,12 +56,12 @@ export const aboutMe = {
       duration: "Currently",
     },
     {
-      title: "MCU Video Editor",
-      duration: "May. 2020 - Apr.2024",
+      title: "Video Editor",
+      duration: "Jan. 2024 - Dec.2024",
     },
     {
-      title: "Bangla Animation Industry Editor",
-      duration: "Jun. 2015 - Jan. 2020",
+      title: "Youtube Video Editor",
+      duration: "Mar. 2020 - Jan. 2022",
     },
   ],
 };
